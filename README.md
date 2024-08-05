@@ -1,7 +1,6 @@
-## I don't own the GSA integration mod These images were not originally created by me but by the owner of Gameserverapp (Max). If you have any questions about the images other than how to download them (see below), please contact him via Gameserverapp Discord/email.
+## These images were not originally created by me but by the owner of Gameserverapp (Max). If you have any questions about the images other than how to download them (see below), please contact him via Gameserverapp Discord/email.
 
 The PSD folder contains the project of each gem. PSD is an image format created with Adobe Photoshop. It is a format that can include multiple layers of images and various image options.
-
 If you do not have Photoshop, consider using some of the following options:
 
 - **[GIMP](https://www.gimp.org/downloads/)**: You can open most PSD files, but some advanced Photoshop features may not translate perfectly.
